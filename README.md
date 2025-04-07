@@ -1,5 +1,3 @@
-I'll create a comprehensive markdown file for the GitHub repository based on the information provided in the documents. Let me analyze the content and structure first.
-
 # ProtectAI AWS Toolkit
 
 A comprehensive toolkit for securing AI models on AWS Bedrock through integration with Protect AI's security solutions.
