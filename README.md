@@ -110,9 +110,4 @@ The toolkit generates detailed security reports:
 - **Proactive Protection**: Identify and remediate vulnerabilities before production deployment
 
 ## License
-
-[License Information]
-
-## Contact
-
-For more information, visit [protectai.com](https://protectai.com) or reach out to the repository maintainers.
+This project is licensed under the AGPL-3.0 license
